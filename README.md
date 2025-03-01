@@ -3,7 +3,7 @@
 # SE-DAY5-Technical-Writing
 ## 1. How can understanding your audience’s expertise level (tech experts vs. regular folks) shape the way you present technical information?
 
-ANSWERE:understanding your audience you choose simple terms that they can all understand both expert and non expert.
+ANSWERE:understanding your audience, you choose simple terms that they can all understand both expert and non expert.
 
 
 ## 2. What are some strategies to tailor your content to different audience types?
